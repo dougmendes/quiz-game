@@ -11,7 +11,8 @@ Um jogo de perguntas com problemas matemáticos feito em GO.
 # Regras :memo:
  - São apresentados problemas matemáticos simples onde é esperada uma resposta.
  - Existe um tempo de resposta para cada pergunta, se o jogador não responder a tempo a resposta é considerada como incorreta.
+ - Caso não seja informado qual o tempo disponível para responder todo o questionario será aplicado o padrão de 30 segundos.
  
 # Opções :gear:
   - O jogador pode adicionar mais problemas matemáticos no arquivo problem.csv.
-  - O tempo de resposta pode ser alterado na chamada do programa.
+  - O tempo de resposta pode ser passado na chamada do programa(em segundos) com a tag -limit, exemplo: ```go build . && quiz-game.exe -limit=1```
