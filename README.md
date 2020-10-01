@@ -14,5 +14,4 @@ Um jogo de perguntas com problemas matemáticos feito em GO.
  
 # Opções :gear:
   - O jogador pode adicionar mais problemas matemáticos no arquivo problem.csv.
-  - O tempo de resposta pode ser alterado na chamada do programada.
-
+  - O tempo de resposta pode ser alterado na chamada do programa.
