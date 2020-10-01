@@ -10,7 +10,7 @@ Um jogo de perguntas com problemas matemáticos feito em GO.
 
 # Regras :memo:
  - São apresentados problemas matemáticos simples onde é esperada uma resposta.
- - Existe um tempo de resposta para cada pergunta, se o jogador não responder a tempo a resposta é considerada como incorreta.
+ - Existe um tempo de resposta para o questionario.
  - Caso não seja informado qual o tempo disponível para responder todo o questionario será aplicado o padrão de 30 segundos.
  
 # Opções :gear:
